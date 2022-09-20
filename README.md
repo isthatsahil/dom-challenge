@@ -6,4 +6,4 @@
 
 ## Challenge 1:
 
-Implement Star Rating Widget using HTML, CSS and JavaScript
+Implement Star Rating Widget using HTML, CSS and JavaScript [View](https://github.com/isthatsahil/dom-challenge/tree/main/star-rating#readme)
